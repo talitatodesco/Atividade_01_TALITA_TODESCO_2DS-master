@@ -1,0 +1,23 @@
+{
+  "name": "atividade_01_talit_todesco_2ds",
+  "version": "1.0.0",
+  "description": "Atividade de PWII.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ATIVIDADE",
+    "ETEC",
+    "BARUERI",
+    "PWII",
+    "NODEJS"
+  ],
+  "author": "TALITA TODESCO MARCONDES (TINI)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.24.0"
+  }
+}
